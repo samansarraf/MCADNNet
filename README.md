@@ -8,6 +8,7 @@ Nibabel is a library to manipulate and process neuroimaging data.
 
 ## Installation
 pip install opencv-python
+
 pip install nibabel
 
 ## Citation
