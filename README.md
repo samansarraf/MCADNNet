@@ -12,6 +12,7 @@ pip install nibabel
 
 ## Citation
 <b>MCADNNet: Recognizing Stages of Cognitive Impairment Through Efficient Convolutional fMRI and MRI Neural Network Topology Models</b>
+
 @article{sarraf2019mcadnnet,
   title={MCADNNet: Recognizing Stages of Cognitive Impairment Through Efficient Convolutional fMRI and MRI Neural Network Topology Models},
   author={Sarraf, Saman and Desouza, Danielle D and Anderson, John AE and Saverino, Cristina},
